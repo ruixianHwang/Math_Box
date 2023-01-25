@@ -2,6 +2,7 @@ import './App.css';
 
 
 function App() {
+  //기본 계산기
   function add(a,b){
     return a+b;
 }
